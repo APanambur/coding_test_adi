@@ -1,0 +1,5 @@
+[32mINFO    [0m __init__:selenium_helper.py:58 Web element css selector : input[id^="bodySearchInput"] was visible
+[32mINFO    [0m __init__:selenium_helper.py:58 Web element css selector : input[id^="bodySearchInput"] was visible
+[32mINFO    [0m __init__:selenium_helper.py:109 Web element (('css selector', 'input[id^="bodySearchInput"]'),) was located and entered with value : apple
+[32mINFO    [0m __init__:selenium_helper.py:58 Web element css selector : input[value = "Look up"] was visible
+[32mINFO    [0m __init__:selenium_helper.py:89 Web element (('css selector', 'input[value = "Look up"]'),) successfully clicked
